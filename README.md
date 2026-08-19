@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0383-ransom-note) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2480-find-subarrays-with-equal-sum) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
