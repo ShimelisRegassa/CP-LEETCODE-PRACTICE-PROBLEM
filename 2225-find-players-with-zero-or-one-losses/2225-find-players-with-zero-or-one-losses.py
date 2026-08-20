@@ -1,22 +1,24 @@
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
-        num1=set()
-        win=[]
-        win1=[]
-        result=[]
-        loser_count={}
-        for x,y in matches:
-            num1.add(x)
-            loser_count[y]=loser_count.get(y,0)+1
-        for x in num1:
-            if x not in loser_count.keys():
-                win.append(x)
-        for x,y in loser_count.items():
-            if(y==1):
-                win1.append(x)          
-        win.sort()
-        win1.sort()
-        result.insert (0,win)
-        result.insert(1,win1)
-        return result
-        
+        lost={}
+        winner={}
+        for j in range(len(matches)):
+            lost[matches[j][1]]=lost.get(matches[j][1],0)+1
+            winner[matches[j][0]]=winner.get(matches[j][0],0)+1
+        lst1=[]
+        lst2=[]
+
+        for j  in winner:
+            if j not in lost:
+                lst1.append(j)
+            elif j in lost and lost[j]==1:
+                lst2.append(j)
+            else:
+                continue
+        for j in lost:
+            if( j not in winner and lost[j]==1):
+                lst2.append(j)
+
+        return sorted(lst1),sorted(lst2)
+            
+
