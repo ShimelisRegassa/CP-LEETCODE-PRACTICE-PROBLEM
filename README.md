@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1094-car-pooling](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1109-corporate-flight-bookings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
