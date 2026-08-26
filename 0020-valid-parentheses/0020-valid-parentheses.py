@@ -3,12 +3,14 @@ class Solution:
         stack=[]
         check={")":"(","}":"{","]":"["}
         for i in s:
-            if(i in check.values()):
-                stack.append(i)
-            elif(i in check.keys()):
-                if(len(stack)==0 or check[i]!=stack[-1]):
+            if(i in check):
+                if(len(stack)!=0 and check[i]==stack[-1]):
+                    stack.pop()
+                else:
                     return False
-                stack.pop()
+
+            else:
+                stack.append(i)
         return len(stack)==0
     
    
