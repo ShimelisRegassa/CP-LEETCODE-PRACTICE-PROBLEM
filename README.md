@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
@@ -261,10 +262,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0503-next-greater-element-ii) |
 ## String Matching
 |  |
 | ------- |
