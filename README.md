@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0383-ransom-note) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
