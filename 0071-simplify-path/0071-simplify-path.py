@@ -5,11 +5,12 @@ class Solution:
         for i in temp:
             if(i=="." or i==""):
                 continue
-            elif(stack and i==".."):
-                stack.pop()
-            elif(i!="//" or i!="///"):
-                if(i!=".."):
-                    stack.append(i)
+            elif(i==".."):
+                if(stack):
+                    stack.pop()
+            else:
+                stack.append(i)
+                
         return "/" +"/".join(stack)
             
 
