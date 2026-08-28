@@ -1,16 +1,18 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        check={}
         stack=[]
+        res=[]
+        ob={}
         for i in nums2:
             while(stack and stack[-1]<i):
-                temp=stack.pop()
-                check[temp]=i
+                ob[stack[-1]]=i
+                stack.pop()
             stack.append(i)
-        res=[-1]*len(nums1)
-        for i in range(len(nums1)):
-            if(nums1[i] in check):
-                res[i]=check[nums1[i]]
+        for i in  nums1:
+            if(i in ob):
+                res.append(ob[i])
+            else:
+                res.append(-1)
         return res
 
 
