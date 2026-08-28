@@ -3,20 +3,13 @@ class DataStream:
     def __init__(self, value: int, k: int):
         self.value=value
         self.k=k
-        self.queue=deque()
         self.counter=0
     def consec(self, num: int) -> bool:
-        if len(self.queue) == self.k:
-            removed = self.queue.popleft()
-            if removed == self.value:
-                self.counter -= 1
-        self.queue.append(num)
         if(num==self.value):
             self.counter+=1
-        if(len(self.queue)==self.k and self.k==self.counter):
-            return True
         else:
-            return False
+            self.counter=0
+        return self.counter>=self.k
 
         
 
