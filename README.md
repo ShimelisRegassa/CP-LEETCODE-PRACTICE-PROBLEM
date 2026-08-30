@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1598-crawler-log-folder) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0930-binary-subarrays-with-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1109-corporate-flight-bookings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2469-convert-the-temperature](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2469-convert-the-temperature) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
