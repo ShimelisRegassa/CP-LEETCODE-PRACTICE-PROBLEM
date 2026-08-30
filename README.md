@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0680-valid-palindrome-ii) |
 | [0837-most-common-word](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0851-goat-latin) |
+| [0856-score-of-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0856-score-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1446-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0856-score-of-parentheses) |
 ## Data Stream
 |  |
 | ------- |
