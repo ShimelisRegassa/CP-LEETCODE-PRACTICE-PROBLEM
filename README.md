@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
+| [4006-count-valid-prefixes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4006-count-valid-prefixes) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [4006-count-valid-prefixes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4006-count-valid-prefixes) |
 ## Array
 |  |
 | ------- |
