@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
