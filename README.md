@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0856-score-of-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0856-score-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1446-consecutive-characters) |
+| [1598-crawler-log-folder](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1598-crawler-log-folder) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0856-score-of-parentheses) |
+| [1598-crawler-log-folder](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
