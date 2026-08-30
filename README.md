@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1732-find-the-highest-altitude](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
