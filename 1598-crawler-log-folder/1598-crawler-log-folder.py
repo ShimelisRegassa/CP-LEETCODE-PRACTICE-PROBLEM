@@ -4,7 +4,7 @@ class Solution:
         for i in logs:
             if(i=="../" and stack):
                 stack.pop()
-            elif(i=="./" or i=="x/"):
+            elif(i=="./"):
                 continue
             elif(i!="../" and i!="./" and i!="x/"):
                 stack.append(i)
