@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0713-subarray-product-less-than-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0713-subarray-product-less-than-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
