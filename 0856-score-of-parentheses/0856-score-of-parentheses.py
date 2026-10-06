@@ -13,7 +13,7 @@ class Solution:
                 else:
                     score=2*inner
                 stack[-1]+=score
-        return stack[-1]
+        return stack[0]
                     
 
 
