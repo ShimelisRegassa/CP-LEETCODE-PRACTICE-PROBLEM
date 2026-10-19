@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1598-crawler-log-folder](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1859-sorting-the-sentence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1859-sorting-the-sentence) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1331-rank-transform-of-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1859-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2191-sort-the-jumbled-numbers) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0075-sort-colors](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
