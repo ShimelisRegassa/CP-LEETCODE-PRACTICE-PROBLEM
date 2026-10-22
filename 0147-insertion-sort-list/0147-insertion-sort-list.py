@@ -8,14 +8,17 @@ class Solution:
         dummy=ListNode(0)
         current=head
         while(current):
-            prev=dummy
             temp=current.next
+            prev=dummy
             while(prev.next and prev.next.val<current.val):
                 prev=prev.next
             current.next=prev.next
             prev.next=current
             current=temp
         return dummy.next
+
+        
+
 
 
             
