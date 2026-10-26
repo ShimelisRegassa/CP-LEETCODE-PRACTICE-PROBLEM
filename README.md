@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
 | [2810-faulty-keyboard](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2810-faulty-keyboard) |
+| [3330-find-the-original-typed-string-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/3330-find-the-original-typed-string-i) |
 | [4006-count-valid-prefixes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4006-count-valid-prefixes) |
 ## Counting
 |  |
