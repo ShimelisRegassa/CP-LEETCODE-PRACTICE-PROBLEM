@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
+| [2810-faulty-keyboard](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2810-faulty-keyboard) |
 | [4006-count-valid-prefixes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4006-count-valid-prefixes) |
 ## Counting
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0844-backspace-string-compare](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1094-car-pooling) |
 | [2460-apply-operations-to-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2460-apply-operations-to-an-array) |
+| [2810-faulty-keyboard](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2810-faulty-keyboard) |
 ## Counting Sort
 |  |
 | ------- |
