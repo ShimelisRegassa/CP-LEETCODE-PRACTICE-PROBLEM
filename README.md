@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
+| [2405-optimal-partition-of-string](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2351-first-letter-to-appear-twice](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2381-shifting-letters-ii) |
+| [2405-optimal-partition-of-string](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2405-optimal-partition-of-string) |
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
 | [2810-faulty-keyboard](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/3330-find-the-original-typed-string-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2405-optimal-partition-of-string](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2405-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
