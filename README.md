@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2514-count-anagrams](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2514-count-anagrams) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2670-find-the-distinct-difference-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2670-find-the-distinct-difference-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4007-widest-possible-fence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4007-widest-possible-fence) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2670-find-the-distinct-difference-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2670-find-the-distinct-difference-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4007-widest-possible-fence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4007-widest-possible-fence) |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/4371-maximize-pair-strength-using-gcd) |
 ## Two Pointers
