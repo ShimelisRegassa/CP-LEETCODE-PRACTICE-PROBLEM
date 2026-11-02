@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
