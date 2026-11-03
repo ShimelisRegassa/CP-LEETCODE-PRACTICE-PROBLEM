@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
