@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0046-permutations) |
 | [0119-pascals-triangle-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0119-pascals-triangle-ii) |
 | [1408-string-matching-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1408-string-matching-in-an-array) |
 ## String
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0119-pascals-triangle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
