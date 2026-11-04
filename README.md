@@ -31,6 +31,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
