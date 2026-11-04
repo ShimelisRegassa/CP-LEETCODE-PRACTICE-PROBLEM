@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1408-string-matching-in-an-array) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## String Matching
 |  |
 | ------- |
