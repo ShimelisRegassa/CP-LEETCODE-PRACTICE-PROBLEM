@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0234-palindrome-linked-list) |
