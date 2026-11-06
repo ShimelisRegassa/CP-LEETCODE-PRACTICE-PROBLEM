@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0119-pascals-triangle-ii) |
 | [0413-arithmetic-slices](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0413-arithmetic-slices) |
@@ -97,5 +99,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
