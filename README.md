@@ -29,6 +29,7 @@
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0053-maximum-subarray) |
+| [0372-super-pow](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +105,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
