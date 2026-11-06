@@ -27,6 +27,7 @@
 | [0231-power-of-two](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -42,6 +43,7 @@
 | [0234-palindrome-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@
 | [0118-pascals-triangle](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0119-pascals-triangle-ii) |
 | [0413-arithmetic-slices](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
