@@ -1,15 +1,18 @@
 class Solution:
     def generate(self, numRows: int) -> list[list[int]]:
-        res=[]
-        for j in range(1,numRows+1):
-            v=math.factorial(j-1)
-            lst=[]
-            for i in range(j):
-                t=math.factorial(i)
-                m=math.factorial(j-i-1)
-                temp=v//(t*m)
-                lst.append(temp)
-            res.append(lst)
-        return res  
+        def pascal(n):
+            if n==1:
+                return [1]
 
+            prev=pascal(n-1)
+            row=[1]
+            for i in range(1,n-1):
+                row.append(prev[i-1]+prev[i])
+            row.append(1)
+            return row
+        res=[]
+        for i in range(1,numRows+1):
+            res.append(pascal(i))
+        return res
+        
 
