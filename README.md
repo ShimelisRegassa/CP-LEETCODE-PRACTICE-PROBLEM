@@ -13,6 +13,7 @@
 | [0413-arithmetic-slices](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1408-string-matching-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1408-string-matching-in-an-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## String
 |  |
 | ------- |
@@ -122,4 +123,17 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
+## Binary Search
+|  |
+| ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
+## Greedy
+|  |
+| ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
+## Prefix Sum
+|  |
+| ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
