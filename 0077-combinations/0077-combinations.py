@@ -5,7 +5,6 @@ class Solution:
         def backtrack(start):
             if(len(current)==k):
                 res.append(current[:])
-                return
             for i in range(start,n+1):
                 current.append(i)
                 backtrack(i+1)
