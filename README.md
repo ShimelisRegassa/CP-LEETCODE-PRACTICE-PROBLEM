@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0128-longest-consecutive-sequence) |
 | [0413-arithmetic-slices](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1207-unique-number-of-occurrences) |
 | [1408-string-matching-in-an-array](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1408-string-matching-in-an-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3169-count-days-without-meetings](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/3169-count-days-without-meetings) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/0142-linked-list-cycle-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/ShimelisRegassa/CP-LEETCODE-PRACTICE-PROBLEM/tree/master/1207-unique-number-of-occurrences) |
 ## Union-Find
 |  |
 | ------- |
